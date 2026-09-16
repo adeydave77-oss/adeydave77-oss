@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm David Adeyemi 👋
 
-<!--
-**adeydave77-oss/adeydave77-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Information Technology student, University of Ilorin, Nigeria
+💼 Currently on SIWES industrial placement at Access Bank
+🌱 Building in public — 50 days, 50 projects (Project 50)
+💻 Focused on Full-Stack / Software Engineering — Frontend, Backend, and Cloud
 
-Here are some ideas to get you started:
+### What I'm working on
+- 🔗 [Transaction Integrity Ledger](https://github.com/adeydave77-oss/transaction-integrity) — a synthetic transaction risk-scoring & audit trail prototype
+- 🔗 [Branch Service Ledger](https://github.com/adeydave77-oss/branch-service-ledger) — a bank branch queue simulation
+- 🔗 [Personal Portfolio](https://adeydave77-oss.github.io/personal-portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+- 💼 [LinkedIn](https://linkedin.com/in/david-adeyemi-410670408)
+- 📧 adeydave77@gmail.com
